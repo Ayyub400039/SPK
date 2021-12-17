@@ -1,5 +1,5 @@
 # TeknikRisetOperasional - Collaborative Filtering
-File ini dibuat dengan dataset dari <a  target="_blank" href="https://www.kaggle.com/CooperUnion/anime-recommendations-database">Anime Recomend database</a>
+File ini dibuat menggunakan dataset dari : <a  target="_blank" href="https://www.kaggle.com/CooperUnion/anime-recommendations-database">Anime Recomend database</a>
 
 Sebelum dimulai pastikan operating sistem terinstal beberapa tools berikut : 
 - <a target="_blank" href="https://www.python.org/downloads/">Python Download</a>
