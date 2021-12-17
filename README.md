@@ -1,4 +1,4 @@
-# TeknikRisetOperasional - Collaborative Filtering
+# SPK - Collaborative Filtering
 File ini dibuat menggunakan dataset dari : [Anime Recomend database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
 - [Alternative Download dataset](https://drive.google.com/drive/folders/1mo41-CeEHzaENlmncW1H2jdKF8BalERS?usp=sharing)
 
