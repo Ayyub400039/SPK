@@ -1,4 +1,4 @@
-# TeknikRisetOperasional
+# TeknikRisetOperasional - Collaborative Filtering
 File ini dibuat dengan dataset dari <a  target="_blank" href="https://www.kaggle.com/CooperUnion/anime-recommendations-database">Anime Recomend database</a>
 
 Sebelum dimulai pastikan operating sistem terinstal beberapa tools berikut : 
