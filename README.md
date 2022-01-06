@@ -12,3 +12,8 @@ Sebelum dimulai pastikan operating sistem terinstal beberapa tools berikut :
 - [Anaconda](https://www.anaconda.com/products/individual)
 
 Jika sudah terinstal, kemudian kita menggunakan tools ***Jupyter Notebook*** yang terdapat pada aplikasi ***anaconda***.
+### Reference : 
+> [Medium.com](https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29) \
+> [Kaggle](https://www.kaggle.com/ajmichelutti/collaborative-filtering-on-anime-data) \
+> [Kaggle](https://www.kaggle.com/varian97/item-based-collaborative-filtering) \
+> [towardsdatascience](https://towardsdatascience.com/collaborative-filtering-on-anime-dataset-using-fastai2-130ae32fe433) 
